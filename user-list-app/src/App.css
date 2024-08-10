@@ -1,0 +1,23 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.user-list {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.user-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-list li {
+  background: #f4f4f4;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 4px;
+}
